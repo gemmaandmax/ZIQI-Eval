@@ -31,10 +31,10 @@
 | 模型                                                                          | 作曲理论  | 世界民族音乐 | 流行音乐 | 西方音乐史 | 中国音乐史 | 中国传统音乐 | 音乐美学 | 音乐教育 | 音乐表演 | 女性音乐 | 平均分 |
 |-------------------------------------------------------------------------------|-------|---------|---------|-------|-------|-------|---------|---------|-------|-------|-------|
 | GPT4 (gpt-4-0613)                                                             | 
-| [Qwen-14B](https://github.com/QwenLM/Qwen)                                    | 
+| [Qwen-14B](https://github.com/QwenLM/Qwen)                                    | 15.28 | 24.04 | 25.79 | 16.34 | 16.19 | 17.67 | 18.39 | 20.32 | 18.28 | 20.90 | 18.90|
 | [Baichuan2-13B](https://github.com/baichuan-inc/Baichuan2)                    | 
 | [XVERSE-7B](https://github.com/xverse-ai/XVERSE-7B)                           | 
-| [Qwen-7B](https://github.com/QwenLM/Qwen)                                     | 
+| [Qwen-7B](https://github.com/QwenLM/Qwen)                                     | 18.97 | 19.61 | 24.71 | 19.28 | 19.83 | 19.46 | 17.78 | 21.68 | 22.40 | 24.48 | 20.36 |
 | ChatGPT (gpt-3.5-turbo)                                                       | 
 | [InternLM-20B](https://github.com/InternLM/InternLM)                          | 
 | [Baichuan2-7B](https://github.com/baichuan-inc/Baichuan2)                     | 
@@ -46,7 +46,8 @@
 | [Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B)                    | 
 | [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)                             | 
 | [Ziya-LLaMA-13B-v1.1](https://huggingface.co/IDEA-CCNL/Ziya-LLaMA-13B-v1.1)   | 
-
+| [Yi-6B](https://huggingface.co/01-ai/Yi-6B)                                   | 19.83 | 25.93 | 26.03 | 25.91 | 31.65 | 28.43 | 23.10 | 29.04| 29.78 | 25.07 | 27.17 |
+| [Yi-34B](https://huggingface.co/01-ai/Yi-34B)                                 |
 
 ### Five-shot
 
@@ -57,7 +58,7 @@
 | [Baichuan2-13B](https://github.com/baichuan-inc/Baichuan2)                    | 
 | [XVERSE-7B](https://github.com/xverse-ai/XVERSE-7B)                           |
 | [XVERSE-13B](https://github.com/xverse-ai/XVERSE-13B)                         | 
-| [Qwen-7B](https://github.com/QwenLM/Qwen)                                     | 
+| [Qwen-7B](https://github.com/QwenLM/Qwen)                                     | 19.06 | 22.11 | 22.93 | 20.77 | 17.86 | 20.57 | 19.00 | 21.68 | 21.19 | 25.37 | 21.05|
 | [Baichuan2-7B](https://github.com/baichuan-inc/Baichuan2)                     | 
 | ChatGPT (gpt-3.5-turbo)                                                       | 
 | [Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B)                  | 
